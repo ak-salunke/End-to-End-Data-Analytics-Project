@@ -1,7 +1,7 @@
 # Project Name: End to End Data Analytics Project
 
 ## Overview
-This project demonstrates an end-to-end data analysis pipeline starting from downloading data from Kaggle using their API (`orders.csv`), cleaning and processing the data with Pandas, loading it into SQL Server, and performing data analysis using SQL queries to answer specific questions.
+This project demonstrates an end-to-end data analysis pipeline starting from downloading data from Kaggle using their API (`orders.csv`), cleaning and processing the data with Pandas, loading it into SQL Server, and performing data analysis using SQL queries to answer interesting questions.
 
 ## Project Structure
 - `orders.csv`: Dataset used in the project.
